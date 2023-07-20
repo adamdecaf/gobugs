@@ -1,4 +1,4 @@
-package scanpanic
+package main
 
 import (
 	"fmt"
